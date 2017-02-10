@@ -1,0 +1,28 @@
+{
+  "name": "CError",
+  "description": "Alternative Error output",
+  "version": "0.1.0",
+  "main": "./lib/CError.js",
+  "license": "MIT",
+  "author": {
+    "name": "Anton Hammerschmidt"
+  },
+  "homepage": "https://github.com/toni89/CError",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toni89/CError.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toni89/fasthash/issues"
+  },
+  "dependencies": {
+    "chalk": "1.1.3"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "Error",
+    "log"
+  ]
+}
