@@ -1,5 +1,5 @@
 {
-  "name": "CError",
+  "name": "cerror",
   "description": "Alternative Error output",
   "version": "0.1.0",
   "main": "./lib/CError.js",

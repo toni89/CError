@@ -5,8 +5,7 @@ Alternative Error output
 ## Example Ouput
  
 ```javascript
-let CError = require('CError');
-
+let CError = require('cerror');
 
 // CError(code, message, data)
 console.log(new CError('AUTH_ERROR', 'Credentials invalid', { user: "foo", pass: "bar" }));
