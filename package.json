@@ -1,7 +1,7 @@
 {
   "name": "cerror",
   "description": "Alternative Error output",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./lib/CError.js",
   "license": "MIT",
   "author": {
