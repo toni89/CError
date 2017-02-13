@@ -12,3 +12,4 @@ console.log('------');
 
 let err3 = new CError('SOME_ERROR_CODE', 'With a message', { key: 'value' });
 console.log(err3.code, err3.message, err3.data);
+console.log(err3);
